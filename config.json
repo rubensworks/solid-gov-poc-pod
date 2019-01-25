@@ -1,6 +1,6 @@
 {
   "root": "/Users/rtaelman/Documents/UGent/nosync/solid-gov-poc-pod/data",
-  "port": "8443",
+  "port": "8444",
   "serverUri": "http://solid-gov.linkedsoftwaredependencies.org/",
   "webid": true,
   "mount": "/",
