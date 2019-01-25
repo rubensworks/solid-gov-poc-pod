@@ -1,0 +1,20 @@
+{
+  "root": "/Users/rtaelman/Documents/UGent/nosync/solid-gov-poc-pod/data",
+  "port": "8443",
+  "serverUri": "https://solid-gov.linkedsoftwaredependencies.org:8444",
+  "webid": true,
+  "mount": "/",
+  "configPath": "./config",
+  "configFile": "./config.json",
+  "dbPath": "./.db",
+  "sslKey": "privkey.pem",
+  "sslCert": "fullchain.pem",
+  "multiuser": true,
+  "enforceToc": false,
+  "supportEmail": "",
+  "server": {
+    "name": "GOV POC",
+    "description": "",
+    "logo": ""
+  }
+}
